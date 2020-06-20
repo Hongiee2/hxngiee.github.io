@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca4c8890-ee54-4caa-91ca-48e2a21e61db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bundle/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/nav.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/nav.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/skill-roles.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/skill-roles.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2018-year-in-review/img/dec_female_dinner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2018-year-in-review/img/dec_female_dinner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2018-year-in-review/img/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2018-year-in-review/img/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2018-year-in-review/img/jul_wanted.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2018-year-in-review/img/jul_wanted.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2018-year-in-review/img/mar_hackerthon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2018-year-in-review/img/mar_hackerthon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2018-year-in-review/img/nov_portfolio_review.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2018-year-in-review/img/nov_portfolio_review.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2018-year-in-review/img/nov_ridi-digital-product-designer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2018-year-in-review/img/nov_ridi-digital-product-designer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2018-year-in-review/img/sep_future_conference.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2018-year-in-review/img/sep_future_conference.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2018-year-in-review/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2018-year-in-review/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/2020.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/2020.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/aug-ttcc-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/aug-ttcc-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/aug-ttcc-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/aug-ttcc-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/dec-driver-license.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/dec-driver-license.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/feb-remote-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/feb-remote-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/feb-remote-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/feb-remote-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/jan-portfolio-meetup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/jan-portfolio-meetup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/jun-yanolja.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/jun-yanolja.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/may-bicycle-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/may-bicycle-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/may-bicycle-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/may-bicycle-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/img/may-trevari.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/img/may-trevari.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2019-year-in-review/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/2019-year-in-review/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/android-sundry-info/img/android-device.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/android-sundry-info/img/android-device.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/android-sundry-info/img/line-height.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/android-sundry-info/img/line-height.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/android-sundry-info/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/android-sundry-info/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/aug-recent-article-i-read/img/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/aug-recent-article-i-read/img/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/aug-recent-article-i-read/img/liftup-desk.png" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/aug-recent-article-i-read/img/liftup-desk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/aug-recent-article-i-read/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/aug-recent-article-i-read/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/designer-can-make-jekyll-blog/img/jekyll-pattern.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/designer-can-make-jekyll-blog/img/jekyll-pattern.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/designer-can-make-jekyll-blog/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/designer-can-make-jekyll-blog/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/img/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/img/about.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/july-recent-article-i-read/img/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/july-recent-article-i-read/img/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/july-recent-article-i-read/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/july-recent-article-i-read/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/second-designer-can-make-jekyll-blog/img/github.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/second-designer-can-make-jekyll-blog/img/github.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/second-designer-can-make-jekyll-blog/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/second-designer-can-make-jekyll-blog/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/sep-oct-recent-article-i-read/img/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/sep-oct-recent-article-i-read/img/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/sep-oct-recent-article-i-read/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/sep-oct-recent-article-i-read/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/starting-a-newsletter-for-designsystem/img/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/starting-a-newsletter-for-designsystem/img/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/starting-a-newsletter-for-designsystem/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/starting-a-newsletter-for-designsystem/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/third-designer-can-make-jekyll-blog/img/liquid_output_example.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/third-designer-can-make-jekyll-blog/img/liquid_output_example.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/third-designer-can-make-jekyll-blog/img/page_structure_example.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/third-designer-can-make-jekyll-blog/img/page_structure_example.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/third-designer-can-make-jekyll-blog/img/structure_mine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/third-designer-can-make-jekyll-blog/img/structure_mine.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/third-designer-can-make-jekyll-blog/img/structure_tale.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/third-designer-can-make-jekyll-blog/img/structure_tale.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/third-designer-can-make-jekyll-blog/img/third_custom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/third-designer-can-make-jekyll-blog/img/third_custom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/third-designer-can-make-jekyll-blog/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Posts/third-designer-can-make-jekyll-blog/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/2019-books-i-read/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/2019-books-i-read/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/digital-product-designer/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/digital-product-designer/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/recently-ridiselect-mar-2019/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/recently-ridiselect-mar-2019/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/skill-roles.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/post-header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="51" selection-start-column="51" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/post-list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/project-header.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/resume.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="19" column="91" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/project-list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/share.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="29" column="145" selection-start-line="29" selection-start-column="141" selection-end-line="29" selection-end-column="145" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="27" column="133" selection-start-line="27" selection-start-column="133" selection-end-line="27" selection-end-column="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kihong</find>
+      <find>iam</find>
+      <find>about</find>
+      <find>book</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/_data/skill-roles.yml" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_data/nav.yml" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-books-i-read" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+              <item name="digital-product-designer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kkyon\OneDrive\Desktop\blog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca4c8890-ee54-4caa-91ca-48e2a21e61db" name="Default Changelist" comment="" />
+      <created>1592632496888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592632496888</updated>
+      <workItem from="1592632499377" duration="3743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3743000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15870446" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_sass/_post.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_syntax.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Posts/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/highlight-img-share/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/b-digital-product-designer.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CODE_OF_CONDUCT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1035">
+            <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_catalogue.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_code.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2823" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_pagination.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_resume.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1788" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/multi-language.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/2019-books-i-read/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/digital-product-designer/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="110" selection-start-line="5" selection-start-column="110" selection-end-line="5" selection-end-column="110" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/b-all-2019.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/b-recent-feb.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/experience.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/nav.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/skill-roles.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/project-header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="19" column="91" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/project-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="145" selection-start-line="29" selection-start-column="141" selection-end-line="29" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="27" column="133" selection-start-line="27" selection-start-column="133" selection-end-line="27" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

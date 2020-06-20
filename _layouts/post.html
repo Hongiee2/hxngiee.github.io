@@ -60,7 +60,7 @@ layout: default
 <!--큐레이션 영역-->
     {{ content }}
     
-    {% if page.book == true %}
+    {% if page.Daily == true %}
         {% if page.ridibooks == true %}
             {% for book-list in site.data[page.data-name] %}   
                 <a href="https://ridibooks.com/books/{{ book-list.bookid }}" target="_blank" class="book-link">

@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          Kihong
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "hxngiee.github.io"
 
 # Assets
 sass:
@@ -16,13 +16,12 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      playpingpong
+  name:         Kihong Kim
+  url:          http://hxngiee.github.io
+  email:        hxngiee@gmail.com
+  github:       https://github.com/hxngiee
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://https://github.com/hxngiee/hxngiee.github.io

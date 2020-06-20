@@ -12,17 +12,22 @@
                     <a href="{{ '' | prepend: site.baseurl }}/" {% if current[1] == "about" or current[1] == "blog" or current[1] == "book" or current[1] == "project" %} class="normal" {% endif %} class="active">Home</a>
                 </li>
                 <li class="transition">
-                    <a href="{{ '/project' | prepend: site.baseurl }}" {% if current[1] == "project" %} class="active"{% endif %} >Project</a>
-                </li>
-                <li class="transition">
-                    <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
-                </li>
-                <li class="transition">
-                    <a href="{{ '/book' | prepend: site.baseurl }}" {% if current[1] == "book" %} class="active"{% endif %} >Book</a>
-                </li>
-                <li class="transition">
                     <a href="{{ '/about' | prepend: site.baseurl }}" {% if current[1] == "about" %} class="active"{% endif %} >About</a>
                 </li>
+                <li class="transition">
+                    <a href="{{ '/Posts' | prepend: site.baseurl }}" {% if current[1] == "Posts" %} class="active"{% endif %} >Posts</a>
+                </li>
+                <li class="transition">
+                    <a href="{{ '/Daily' | prepend: site.baseurl }}" {% if current[1] == "Daily" %} class="active"{% endif %} >Daily</a>
+                </li>
+                <li class="transition">
+                    <a href="{{ '/project' | prepend: site.baseurl }}" {% if current[1] == "project" %} class="active"{% endif %} >Project</a>
+                </li>
+
+                <li class="transition">
+                    <a href="{{ '/폴더경로' | prepend: site.baseurl }}" {% if current[1] == "Search" %} class="active"{% endif %} >Search</a>
+                </li>
+
             </ul>
         </div>
       </nav>
